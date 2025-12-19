@@ -53,23 +53,18 @@ We appreciate your help with this early testing phase. Your feedback is invaluab
 *   **🔗 Developer Resources:** Quick links to model cards and source code.
 
 ## 🏁 Get Started in Minutes!
-
-1. **Check OS Requirement**: Android 12 and up
+1. **Check OS Requirement**: Android 11 (API level 30) and up
 2.  **Download the App:**
     - Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery).
     - For users without Google Play access: install the apk from the [**latest release**](https://github.com/google-ai-edge/gallery/releases/latest/)
 3.  **Install & Explore:** For detailed installation instructions (including for corporate devices) and a full user guide, head over to our [**Project Wiki**](https://github.com/google-ai-edge/gallery/wiki)!
 
-## 🛠️ Technology Highlights
-
-*   **Google AI Edge:** Core APIs and tools for on-device ML.
-*   **LiteRT:** Lightweight runtime for optimized model execution.
-*   **LLM Inference API:** Powering on-device Large Language Models.
-*   **Hugging Face Integration:** For model discovery and download.
-
 ## ⌨️ Development
 
 Check out the [development notes](DEVELOPMENT.md) for instructions about how to build the app locally.
+
+> [!NOTE]
+> Recent updates have improved support for Android 11. If building locally, ensure you use JDK 17 and have the latest Android SDK configured. See [DEVELOPMENT.md](DEVELOPMENT.md) for environment setup details.
 
 ## 🤝 Feedback
 
